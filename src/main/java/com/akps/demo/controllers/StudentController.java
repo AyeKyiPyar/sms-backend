@@ -22,8 +22,6 @@ import com.akps.demo.services.*;
 
 @RestController
 @RequestMapping("/api/students")
-//@CrossOrigin(origins = "http://localhost:5173")
-@CrossOrigin(origins = "*")
 public class StudentController 
 {
 	@Autowired

@@ -10,7 +10,6 @@ import com.akps.demo.models.*;
 
 @RestController
 @RequestMapping("/api/roles")
-@CrossOrigin(origins = "*")
 public class RoleController 
 {
 

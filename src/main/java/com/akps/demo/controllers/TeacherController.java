@@ -17,10 +17,6 @@ import com.akps.demo.services.TeacherService;
 
 @RestController
 @RequestMapping("/api/teachers")
-@CrossOrigin(
-    origins = "*",
-    allowCredentials = "true"
-)
 public class TeacherController {
 
     @Autowired

@@ -21,7 +21,6 @@ import com.akps.demo.exceptions.UserAlreadyExistsException;
 
 @RestController
 @RequestMapping("/api/enrollments")
-@CrossOrigin(origins = "*")
 public class EnrollmentController 
 {
 

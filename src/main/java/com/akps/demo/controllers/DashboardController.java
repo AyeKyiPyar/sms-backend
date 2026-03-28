@@ -15,7 +15,6 @@ import com.akps.demo.services.*;
 
 @RestController
 @RequestMapping("/api/dashboard")
-@CrossOrigin(origins = "*")
 public class DashboardController 
 {
 

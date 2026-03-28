@@ -17,7 +17,6 @@ import com.akps.demo.services.DepartmentService;
 
 @RestController
 @RequestMapping("/api/departments")
-@CrossOrigin(origins = "*")//@CrossOrigin(origins = "*")
 public class DepartmentController
 {
 	@Autowired

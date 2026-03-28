@@ -13,7 +13,6 @@ import com.akps.demo.services.CourseService;
 
 @RestController
 @RequestMapping("/api/courses")
-@CrossOrigin(origins = "*")
 public class CourseController
 {
     @Autowired
