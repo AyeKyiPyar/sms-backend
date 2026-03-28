@@ -1,5 +1,6 @@
 E:\LL\sms-backend\src\main\java\com\akps\demo\config\AppConfig.java
 E:\LL\sms-backend\src\main\java\com\akps\demo\config\DataInitializer.java
+E:\LL\sms-backend\src\main\java\com\akps\demo\config\WebConfig.java
 E:\LL\sms-backend\src\main\java\com\akps\demo\controllers\CourseController.java
 E:\LL\sms-backend\src\main\java\com\akps\demo\controllers\DashboardController.java
 E:\LL\sms-backend\src\main\java\com\akps\demo\controllers\DepartmentController.java
