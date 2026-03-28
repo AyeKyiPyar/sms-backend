@@ -12,7 +12,7 @@ pipeline {
     }
 
     environment {
-        IMAGE_NAME = "library"
+        IMAGE_NAME = "sms"
         CONTAINER_NAME = "sms-backend-container"
         VERSION = "${BUILD_NUMBER}"
         SONAR_URL = "http://sonar:9000"
