@@ -11,6 +11,7 @@ com\akps\demo\dtos\AdminDTO$AdminDTOBuilder.class
 com\akps\demo\enums\UserType.class
 com\akps\demo\services\impl\EnrollmentServiceImpl.class
 com\akps\demo\controllers\DashboardController.class
+com\akps\demo\config\WebConfig.class
 com\akps\demo\repositories\TeacherRepository.class
 com\akps\demo\models\Teacher.class
 com\akps\demo\services\impl\AdminServiceImpl.class
