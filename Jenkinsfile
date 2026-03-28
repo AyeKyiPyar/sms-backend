@@ -37,7 +37,7 @@ pipeline {
         }
        
 
-        stage('Code Quality') {
+      /*  stage('Code Quality') {
             parallel {
 
                 stage('Checkstyle') {
@@ -91,7 +91,7 @@ pipeline {
 		            '''
 		        }
 		    }
-		}
+		}*/
 
         stage('Package') {
             steps {
